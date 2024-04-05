@@ -1,0 +1,4 @@
+baseURL = 'https://esenturk.net/'
+languageCode = 'en-us'
+title = 'Emre Esenturk'
+theme = "congo"
