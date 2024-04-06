@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Congo! :tada:"
-description: "This is a demo of the Congo theme for Hugo."
+title: "Emre Esenturk"
+description: "All about me..."
 ---
 
 {{< lead >}}
