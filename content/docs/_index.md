@@ -9,12 +9,12 @@ cascade:
 ---
 
 {{< lead >}}
-Simple, yet powerful. Learn how to use Congo and its features.
+Burada projeler olacak. Her bir pojenin ozeti. tiklayinca detayi
 {{< /lead >}}
 
 ![Screenshots of Congo on an iPhone, iPad and MacBook](screenshot.png)
 
-This section contains everything you need to know about Congo. If you're new, check out the [Installation]({{< ref "docs/installation" >}}) guide to begin or visit the [Samples]({{< ref "samples" >}}) section to see what Congo can do.
+boyle bir aciklama [Installation]({{< ref "docs/installation" >}}) linkler ve belki bir foto olabilir. Olmayabilirdirde. 
 
 _Special thanks to [Katerina Limpitsouni](https://ninalimpi.com) for the excellent illustrations that are used throughout these docs!_
 
