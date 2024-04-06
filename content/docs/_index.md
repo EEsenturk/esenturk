@@ -1,7 +1,6 @@
 ---
-title: "Documentation"
-description: "Learn how to use Congo and its features."
-
+title: "Projects"
+description: "Learn more about my projects"
 cascade:
   showDate: false
   showAuthor: false
