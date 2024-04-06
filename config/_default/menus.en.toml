@@ -34,6 +34,14 @@
     showName = true
     target = "_blank"
 
+    
+[[main]]
+identifier = "appearance"
+weight = 99
+[main.params]
+action = "appearance"
+# icon = "appearance"
+
 [[main]]
   identifier = "search"
   weight = 99
