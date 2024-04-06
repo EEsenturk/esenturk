@@ -102,12 +102,7 @@
       {{ end }}
     </div>
     <div class="flex flex-row items-center">
-      {{/* Locale switcher */}}
-      {{ if and (.IsTranslated) (eq ($.Scratch.Get "localeCount") 0) }}
-        <div>
-          {{ partial "translations.html" (dict "ctx" . "dir" "up") }}
-        </div>
-      {{ end }}
+      
       {{/* Appearance switcher */}}
       {{ if .Site.Params.footer.showAppearanceSwitcher | default false }}
         <div

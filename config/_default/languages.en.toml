@@ -1,6 +1,6 @@
 languageCode = "en"
 languageName = "English"
-languageDirection = "ltr"
+#languageDirection = "ltr"
 weight = 1
 
 title = "Emre Esenturk"

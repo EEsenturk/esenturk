@@ -29,6 +29,8 @@ fingerprintAlgorithm = "sha256"
   showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = true
+  showLanguageSwitcher = false # This line would be added if the theme supported it directly
+
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom

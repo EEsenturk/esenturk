@@ -27,5 +27,3 @@ Congoは柔軟性に富み、静的なコンテンツ配信にも、投稿フィ
 </div>
 
 {{< figure src="festivities.svg" class="m-auto mt-6 max-w-prose" >}}
-
-[例]({{< ref "samples" >}})を見て、Congoの実力を実感してください。気に入ったら[GitHub](https://github.com/jpanther/congo)をチェックするか、[インストール]({{< ref "docs/installation" >}})を読んで実際に使い始めてほしい。

@@ -9,9 +9,6 @@ Mathematician!
 
 Hi, I am Emre. Welcome to my website.
 
-I am a research fellow at NDM Oxford. 
-
-
 I am a research fellow at [NDM Oxford ](https://www.ndm.ox.ac.uk/)  also I am a lectuer at [Jesus College, Oxford](https://www.jesus.ox.ac.uk)
 
 My research is concerned .......
