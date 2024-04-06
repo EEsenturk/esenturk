@@ -1,5 +1,5 @@
 ---
-title: "Getting Started"
+title: "Matematik"
 date: 2020-08-15
 draft: false
 description: "Learn how to get started using the Congo theme."

@@ -1,5 +1,5 @@
 ---
-title: "Installation"
+title: "Fizik"
 date: 2020-08-16
 draft: false
 description: "How to install the Congo theme."
