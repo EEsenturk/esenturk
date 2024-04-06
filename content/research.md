@@ -14,6 +14,7 @@ Simply follow the standard Hugo [Quick Start](https://gohugo.io/getting-started/
 | Year | Title                                                                                                         |
 |------|---------------------------------------------------------------------------------------------------------------|
 | 2019 | Authoritarian Neoliberalism: Philosophies, Practices, Contestations (eds. with Ian Bruff), Routledge.        |
+|   code:   | 
 | 2017 | States of Discipline: Authoritarian Neoliberalism and the Contested Reproduction of Capitalist Order (ed.), Rowman & Littlefield International. |
 
 <hr class="bold-line">
