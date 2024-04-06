@@ -1,5 +1,5 @@
 ---
-title: "What's New in 2.0 ✨"
+title: "Proje Basligi ✨"
 date: 2022-01-19
 draft: false
 description: "Discover what's new in Congo version 2.0."
