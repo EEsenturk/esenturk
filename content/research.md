@@ -1,8 +1,8 @@
 ---
-title: "Research"
-date: 2020-08-16
-description: "How to install the Congo theme."
-summary: "Learn how to get up and running using Hugo and Congo from a completely blank state. It's the best place to start if you're a new user."
+title: "Research Interest"
+date: 2024-04-06
+description: "Emre Esenturk Research Interests"
+summary: "Learn about my research"
 slug: "research"
 tags: ["research", "publications"]
 ---
@@ -13,8 +13,8 @@ Simply follow the standard Hugo [Quick Start](https://gohugo.io/getting-started/
 
 ### 2019
 
-| Year | Title                                                                                                         |
-|------------------------------------------------------------|---------------------------------------------------------|
+| Year | Title                          |
+|---------------------------------------------|--------------------|
 | [Link to journal](https://fatih.ai) | Authoritarian Neoliberalism: Philosophies, Practices, Contestations (eds. with Ian Bruff), Routledge.        |
 |   code:   | 
 | 2017 | States of Discipline: Authoritarian Neoliberalism and the Contested Reproduction of Capitalist Order (ed.), Rowman & Littlefield International. |
