@@ -14,10 +14,11 @@ Simply follow the standard Hugo [Quick Start](https://gohugo.io/getting-started/
 ### 2019
 
 | Year | Title                          |
-|---------------------------------------------|--------------------|
-| [Link to journal](https://fatih.ai) | Authoritarian Neoliberalism: Philosophies, Practices, Contestations (eds. with Ian Bruff), Routledge.        |
-|   code:   | 
-| 2017 | States of Discipline: Authoritarian Neoliberalism and the Contested Reproduction of Capitalist Order (ed.), Rowman & Littlefield International. |
+|--------------------------|--------------------|
+| 2019 | Authoritarian Neolib        |
+| 2020 | Authoritarian dsadsadas       |
+| dsf |sfsd |
+| 2017 | States of Discipline: Authoritarian Neoliberalism a |
 
 <hr class="bold-line">
 
