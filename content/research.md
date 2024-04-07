@@ -7,7 +7,9 @@ slug: "research"
 tags: ["research", "publications"]
 ---
 
-Simply follow the standard Hugo [Quick Start](https://gohugo.io/getting-started/quick-start/) procedure to get up and running quickly. Detailed installation instructions can be found below. Instructions for [updating the theme](#installing-updates) are also available.
+Simply follow the standard Hugo [Quick Start](abcd.pdf) procedure to get up and running quickly. Detailed installation instructions can be found below. Instructions for [updating the theme](#installing-updates) are also available.
+[link texti](link)
+
 
 ## Books
 
