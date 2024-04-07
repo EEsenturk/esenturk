@@ -22,7 +22,7 @@
 
 [[main]]
   name = "Projects"
-  pageRef = "docs"
+  pageRef = "project"
   weight = 30
 
 
