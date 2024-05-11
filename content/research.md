@@ -13,7 +13,22 @@ tags: ["research", "publications"]
 
 ## In Preparation
 
-### 2019
+### 2024
+
+| Year | Title                          |
+|--------------------------|--------------------|
+| .. | Esenturk E., Haberland V., Sahli A., Kreppa A., Woodcock D., Brewer D., Wedge D., Genomic classification of prostate
+cancer       |
+| .. | Esenturk E., Haberland V., Sahli A., Krepa A., Woodcock D., Brewer D., Wedge D.Woodcock Dan, Causal Mechanism
+of evolutionary divergence in prostate cancer      |
+| .. |Esenturk E., Connaughton C., Exchange-driven growth with source and sink|
+
+
+<hr class="bold-line">
+
+## Preprint
+
+### 2024
 
 | Year | Title                          |
 |--------------------------|--------------------|
@@ -28,16 +43,16 @@ of evolutionary divergence in prostate cancer      |
 
 
 
-## Recent Research Articles
+## Selected Research Articles
 
 | Year | Title                                                                                                         |
 |------|---------------------------------------------------------------------------------------------------------------|
-| 2024 | 'Reproducing Socio-ecological Life from Below: Towards a Planetary Political Economy of the Global Majority.' Review of International Studies. With Lisa Tilley. |
-| 2021 | 'Colonial Lives of the Carceral Archipelago: Rethinking the Neoliberal Security State,' International Political Sociology 15(3): 415–439. With Sabrina Axster, Ida Danewid, Asher Goldstein, Matt Mahmoudi, and Lauren Wilcox. |
-| 2020 | 'The Shape of "Rising Powers" to Come? The Antinomies of Growth and Neoliberal Development in Turkey.' New Political Economy 25(5): 791–812. |
-| 2019 | 'Neoliberalism and the Antagonisms of Authoritarian Resilience in the Middle East.' South Atlantic Quarterly 118(2): 287–305. |
-| 2019 | 'Reproducing Authoritarian Neoliberalism in Turkey: Urban Governance and State Restructuring in the Shadow of Executive Centralization.' Globalizations 16(3): 320–35. |
-| 2018 | 'Authoritarian Neoliberalism and Democratic Backsliding in Turkey: Beyond the Narratives of Progress.' South European Society and Politics 23(2): 197–217. |
+| 2024 | '. |
+| 2021 | '. |
+| 2020 | '. |
+| 2019 | '. |
+| 2019 | '. |
+| 2018 | ' |
 
 <hr class="thin-line">
 
