@@ -12,19 +12,19 @@ Throughout my graduate education and professional life, I have acquired signific
 I have also worked as a teaching assistant as well as a module leader for various undergraduate and postgraduate level modules.
 
 
-## Recent Mathematics Teaching
+## Recent Teaching Experience
 
-| Year | Module Titles                                                                                                         |
-|------|---------------------------------------------------------------------------------------------------------------|
-| 2024 | Introductory Probability; Statistics and Data Analysis      |
-| 2023 | Introductory Probability; Probability; Mathematical Statistics; Statistics and Data Analysis  |
-| 2022 | Mathematical Statistics; Statistics and Data Analysis; Constructive Mathematics; Introduction to Graph Theory  |
-| 2018 | Differential Equations  |
+| Year | Role             | Module Titles                                                                                 |
+|------|------------------|-----------------------------------------------------------------------------------------------|
+| 2024 | College Lecturer | Introductory Probability; Statistics and Data Analysis                                        |
+| 2023 | College Lecturer | Introductory Probability; Probability; Mathematical Statistics; Statistics and Data Analysis  |
+| 2022 | College Lecturer | Mathematical Statistics; Statistics and Data Analysis; Constructive Mathematics; Introduction to Graph Theory  |
+| 2018 | Dept. Instructor | Differential Equations  |
 
 
 <hr class="bold-line">
 
-## Recent Physics Teaching
+## Previous Teaching Experience
 
 | Year | Title                                                                                                         |
 |------|---------------------------------------------------------------------------------------------------------------|
