@@ -13,13 +13,11 @@ tags: ["research", "publications"]
 
 ## In Preparation
 
-### 2024
+##
 
 | Year | Title                          |
 |--------------------------|--------------------|
-| .. | Esenturk E., Haberland V., Sahli A., Kreppa A., Woodcock D., Brewer D., Wedge D., Genomic classification of prostate
-cancer       |
-| .. | |
+| .. | Esenturk E., Haberland V., Sahli A., Kreppa A., Woodcock D., Brewer D., Wedge D., Genomic classification of prostate cancer.|
 | .. |Esenturk E., Connaughton C., Exchange-driven growth with source and sink|
 
 
@@ -27,12 +25,11 @@ cancer       |
 
 ## Preprint
 
-### 2024
+##
 
 | Year | Title                          |
 |--------------------------|--------------------|
-| .. | Esenturk E., Haberland V., Sahli A., Krepa A., Woodcock D., Brewer D., Wedge D.Woodcock Dan, Causal Mechanism
-of evolutionary divergence in prostate cancer  |
+| 2024 | Esenturk E., Haberland V., Sahli A., Krepa A., Woodcock D., Brewer D., Wedge D.Woodcock Dan, A Causal Mechanism for evolutionary divergence in prostate cancer.  |
 
 
 
@@ -40,11 +37,11 @@ of evolutionary divergence in prostate cancer  |
 
 
 
-## Selected Past Papers
+## Recent Papers
 
 | Year | Title                                                                                                         |
 |------|---------------------------------------------------------------------------------------------------------------|
-| 2024 | Esenturk E., Turley D., Wallace A., Khastgir S., Jennings P., A data mining approach to traffic accidents, pattern extraction and test scenario generation for autonomous vehicles', International Journal of Transportation Science and Technology, (12), 955-972 https://doi.org/10.1016/j.ijtst.2022.10.002.. |
+| 2023 | Esenturk E., Turley D., Wallace A., Khastgir S., Jennings P., A data mining approach to traffic accidents, pattern extraction and test scenario generation for autonomous vehicles', International Journal of Transportation Science and Technology, (12), 955-972 https://doi.org/10.1016/j.ijtst.2022.10.002. |
 | 2023 | Esenturk E., A phase field approach for direct calculation of interfacial free energy of solid-gas and solid-liquid interfaces in Lennard-Jones systems, 16, 2339-2353. |
 | 2022 | Esenturk E., Wallace A., Khastgir S., Jennings P., Identification of Traffic Accident Patterns via Cluster Analysis and Test Scenario Development for Autonomous Vehicles, IEEE Access, 10, 660-675, 2022|
 | 2021 | Esenturk E., Khastgir S., Wallace A., Jennings P., Analyzing real-world accidents for test scenario generation for automated vehicles, IEEE Intelligent Vehicles 2021 Proceedings, 288-295. |
