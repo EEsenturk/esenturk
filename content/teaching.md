@@ -12,7 +12,7 @@ Throughout my graduate education and professional life, I have acquired signific
 I have also worked as a teaching assistant as well as a module leader for various undergraduate and postgraduate level modules.
 
 
-## Mathematics
+## Recent Mathematics Teaching
 
 | Year | Module Titles                                                                                                         |
 |------|---------------------------------------------------------------------------------------------------------------|
@@ -24,18 +24,10 @@ I have also worked as a teaching assistant as well as a module leader for variou
 
 <hr class="bold-line">
 
-## Physics
+## Recent Physics Teaching
 
 | Year | Title                                                                                                         |
 |------|---------------------------------------------------------------------------------------------------------------|
 | 2024 | 'Reproducing Socio-ecological Life from Below: Towards a Planetary Political Economy of the Global Majority.' Review of International Studies. With Lisa Tilley. |
 
 
-<hr class="thin-line">
-
-## Lab
-
-| Year | Title                                                                                                         |
-|------|---------------------------------------------------------------------------------------------------------------|
-| 2021 | A Necessarily Historical Materialist Moment? Forum on Global Capitalism, Global War, Global Crisis (ed.), International Relations 35(1). |
-| 2019 | Authoritarian Neoliberalism: Philosophies, Practices, Contestations (eds. with Ian Bruff), Globalizations 16(3). |
