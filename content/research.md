@@ -19,8 +19,7 @@ tags: ["research", "publications"]
 |--------------------------|--------------------|
 | .. | Esenturk E., Haberland V., Sahli A., Kreppa A., Woodcock D., Brewer D., Wedge D., Genomic classification of prostate
 cancer       |
-| .. | Esenturk E., Haberland V., Sahli A., Krepa A., Woodcock D., Brewer D., Wedge D.Woodcock Dan, Causal Mechanism
-of evolutionary divergence in prostate cancer      |
+| .. | |
 | .. |Esenturk E., Connaughton C., Exchange-driven growth with source and sink|
 
 
@@ -32,11 +31,9 @@ of evolutionary divergence in prostate cancer      |
 
 | Year | Title                          |
 |--------------------------|--------------------|
-| .. | Esenturk E., Haberland V., Sahli A., Kreppa A., Woodcock D., Brewer D., Wedge D., Genomic classification of prostate
-cancer       |
 | .. | Esenturk E., Haberland V., Sahli A., Krepa A., Woodcock D., Brewer D., Wedge D.Woodcock Dan, Causal Mechanism
-of evolutionary divergence in prostate cancer      |
-| .. |Esenturk E., Connaughton C., Exchange-driven growth with source and sink|
+of evolutionary divergence in prostate cancer  |
+
 
 
 <hr class="bold-line">
