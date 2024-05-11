@@ -17,7 +17,8 @@ I have also worked as a teaching assistant as well as a module leader for variou
 | Year | Role             | Module Titles                                                                                 |
 |------|------------------|-----------------------------------------------------------------------------------------------|
 | 2024 | College Lecturer | Introductory Probability; Statistics and Data Analysis                                        |
-| 2023 | College Lecturer | Introductory Probability; Probability; Mathematical Statistics; Statistics and Data Analysis  |
+| 2023 | College Lecturer | Introductory Probability; Probability; Mathematical Statistics; 
+Statistics and Data Analysis  |
 | 2022 | College Lecturer | Mathematical Statistics; Statistics and Data Analysis; Constructive Mathematics; Introduction to Graph Theory  |
 | 2018 | Dept. Instructor | Differential Equations  |
 
