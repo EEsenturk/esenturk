@@ -7,31 +7,33 @@ slug: "teaching"
 tags: ["teaching", "courses"]
 ---
 
-Simply follow the standard Hugo [Quick Start](https://gohugo.io/getting-started/quick-start/) procedure to get up and running quickly. Detailed installation instructions can be found below. Instructions for [updating the theme](#installing-updates) are also available.
+Throughout my graduate education and professional life, I have acquired significant amount of experience that has embedded in me the pedagogical principles behind my teaching. I am currently working as a Lecturer/Tutor at Jesus College, Oxford University.
 
-## Books
+I have also worked as a teaching assistant as well as a module leader for various undergraduate and postgraduate level modules.
 
-| Year | Title                                                                                                         |
+
+## Mathematics
+
+| Year | Module Titles                                                                                                         |
 |------|---------------------------------------------------------------------------------------------------------------|
-| 2019 | Authoritarian Neoliberalism: Philosophies, Practices, Contestations (eds. with Ian Bruff), Routledge.        |
-| 2017 | States of Discipline: Authoritarian Neoliberalism and the Contested Reproduction of Capitalist Order (ed.), Rowman & Littlefield International. |
+| 2024 | Introductory Probability; Statistics and Data Analysis      |
+| 2023 | Introductory Probability; Probability; Mathematical Statistics; Statistics and Data Analysis  |
+| 2022 | Mathematical Statistics; Statistics and Data Analysis; Constructive Mathematics; Introduction to Graph Theory  |
+| 2018 | Differential Equations  |
+
 
 <hr class="bold-line">
 
-## Research Articles
+## Physics
 
 | Year | Title                                                                                                         |
 |------|---------------------------------------------------------------------------------------------------------------|
 | 2024 | 'Reproducing Socio-ecological Life from Below: Towards a Planetary Political Economy of the Global Majority.' Review of International Studies. With Lisa Tilley. |
-| 2021 | 'Colonial Lives of the Carceral Archipelago: Rethinking the Neoliberal Security State,' International Political Sociology 15(3): 415–439. With Sabrina Axster, Ida Danewid, Asher Goldstein, Matt Mahmoudi, and Lauren Wilcox. |
-| 2020 | 'The Shape of "Rising Powers" to Come? The Antinomies of Growth and Neoliberal Development in Turkey.' New Political Economy 25(5): 791–812. |
-| 2019 | 'Neoliberalism and the Antagonisms of Authoritarian Resilience in the Middle East.' South Atlantic Quarterly 118(2): 287–305. |
-| 2019 | 'Reproducing Authoritarian Neoliberalism in Turkey: Urban Governance and State Restructuring in the Shadow of Executive Centralization.' Globalizations 16(3): 320–35. |
-| 2018 | 'Authoritarian Neoliberalism and Democratic Backsliding in Turkey: Beyond the Narratives of Progress.' South European Society and Politics 23(2): 197–217. |
+
 
 <hr class="thin-line">
 
-## Special Issues & Symposia
+## Lab
 
 | Year | Title                                                                                                         |
 |------|---------------------------------------------------------------------------------------------------------------|
