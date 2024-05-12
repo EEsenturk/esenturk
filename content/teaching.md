@@ -26,8 +26,9 @@ I have also worked as a teaching assistant as well as a module leader for variou
 
 ## Previous Teaching Experience
 
-| Year | Title                                                                                                         |
-|------|---------------------------------------------------------------------------------------------------------------|
-| 2024 | 'Reproducing Socio-ecological Life from Below: Towards a Planetary Political Economy of the Global Majority.' Review of International Studies. With Lisa Tilley. |
+| Role              | University    | Module Titles                                                                                 |
+|------------------ |---------------------------------------------------------------------------------------------------------------|
+| Teach. Assisstant | U. Warwick    | Maths-in-Action |
+| Teach. Assisstant | U. Pittsburgh | Intorductory Analysis; Calculus I, II, III, Introduction to Physics I, II
 
 
