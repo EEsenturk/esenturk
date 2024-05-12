@@ -14,12 +14,12 @@ I have also worked as a teaching assistant as well as a module leader for variou
 
 ## Recent Teaching Experience
 
-| Year | University | Role             | Module Titles                                                                                 |
-|------|------------|------------------|-----------------------------------------------------------------------------------|
-| 2024 | U. Oxford  | College Lecturer | Introductory Probability; Statistics and Data Analysis                                        |
-| 2023 | U. Oxford  | College Lecturer | Introductory Probability; Probability; Mathematical Statistics; Statistics and Data Analysis  | 
-| 2022 | U. Oxford  | College Lecturer | Mathematical Statistics; Statistics and Data Analysis; Constructive Mathematics; Introduction to Graph Theory  |
-| 2018 | U. Warwick | Dept. Instructor | Differential Equations  |
+| Year | University  | Role             | Module Titles                                                                                 |
+|------|-------------|------------------|-----------------------------------------------------------------------------------|
+| 2024 | U. Oxford   | College Lecturer | Introductory Probability; Statistics and Data Analysis                                        |
+| 2023 | U. Oxford   | College Lecturer | Introductory Probability; Probability; Mathematical Statistics; Statistics and Data Analysis  | 
+| 2022 | U. Oxford   | College Lecturer | Mathematical Statistics; Statistics and Data Analysis; Constructive Mathematics; Introduction to Graph Theory  |
+| 2018 | U. Warwick  | Dept. Instructor | Differential Equations  |
 
 
 <hr class="bold-line">
@@ -27,8 +27,8 @@ I have also worked as a teaching assistant as well as a module leader for variou
 ## Previous Teaching Experience
 
 | Role              | University    | Module Titles                                                                                 |
-|------------------ |---------------------------------------------------------------------------------------------------------------|
+|-------------------|-----------------------------------------------------------------------------------------------------------|
 | Teach. Assisstant | U. Warwick    | Maths-in-Action |
-| Teach. Assisstant | U. Pittsburgh | Intorductory Analysis; Calculus I, II, III, Introduction to Physics I, II
+| Teach. Assisstant | U. Pittsburgh | Intorductory Analysis; Calculus I, II, III, Introduction to Physics I, II |
 
-
+<hr class="bold-line">
