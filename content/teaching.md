@@ -26,9 +26,9 @@ I have also worked as a teaching assistant as well as a module leader for variou
 
 ## Previous Teaching Experience
 
-| Role              | University    | Module Titles                                                                                 |
-|-------------------|-----------------------------------------------------------------------------------------------------------|
-| Teach. Assisstant | U. Warwick    | Maths-in-Action |
-| Teach. Assisstant | U. Pittsburgh | Intorductory Analysis; Calculus I, II, III, Introduction to Physics I, II |
+| University  | Role             | Module Titles                                                                                 |
+|-------------|------------------|-----------------------------------------------------------------------------------|
+| U. Oxford   | Tea. Assisstant  | Maths-in-Action                                                                               |
+| U. Pitt.    | Tea. Assisstant  | Intorductory Analysis; Calculus I, II, III, Introduction to Physics I, II                     | 
 
 <hr class="bold-line">
