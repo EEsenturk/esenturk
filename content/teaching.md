@@ -19,16 +19,16 @@ I have also worked as a teaching assistant as well as a module leader for variou
 | 2024 | U. Oxford   | College Lecturer | Introductory Probability; Statistics and Data Analysis                                        |
 | 2023 | U. Oxford   | College Lecturer | Introductory Probability; Probability; Mathematical Statistics; Statistics and Data Analysis  | 
 | 2022 | U. Oxford   | College Lecturer | Mathematical Statistics; Statistics and Data Analysis; Constructive Mathematics; Introduction to Graph Theory  |
-| 2018 | U. Warwick  | Dept. Instructor | Differential Equations  |
 
 
 <hr class="bold-line">
 
 ## Previous Teaching Experience
 
-| University  | Role             | Module Titles                                                                                 |
-|-------------|------------------|-----------------------------------------------------------------------------------|
-| U. Oxford   | Tea. Assisstant  | Maths-in-Action                                                                               |
-| U. Pitt.    | Tea. Assisstant  | Intorductory Analysis; Calculus I, II, III, Introduction to Physics I, II                     | 
+| University     | Role             | Module Titles                                                                                 |
+|-------------   |------------------|-----------------------------------------------------------------------------------|
+| U. Warwick     | Dept. Instructor | Differential Equations                                                                   |
+| U. Warwick     | Co-advisor       | Maths-in-Action                                                                               |
+| U. Pittsburgh  | Tea. Assisstant  | Intorductory Analysis; Calculus I, II, III, Introduction to Physics I, II                     | 
 
 <hr class="bold-line">
