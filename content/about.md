@@ -10,6 +10,15 @@ tags: ["research", "publications"]
 
 Hello my name is Emre. Here is my short bio
 
+## Professional Experience
+
+| Years          | University    | Role             | Project                                           |
+|----------------|---------------|------------------|---------------------------------------------------------------------|
+| 2022 - current | U. Oxford     | Researh Fellow   | Discovery and Analysis of Prostate Cancer Subtypes             |
+| 2019 - 2022    | U. Warwick    | Researh Fellow   | Analysis of Traffic Accidents and Test Scenario Development for Autonomous Vehicles              |
+| 2017 - 2019    | U. Warwick    | Researh Fellow   | Kinetic Modeling and Mathematical Analysis of Growth and Fragmentation Equations            |
+| 2015 - 2017    | U. Cambridge  | Researh Fellow   | Numerical Analysis and Improvement of Solvers of Atmospheric Chemical Reaction Networks         |
+
 
 
 [congo]: https://jpanther.github.io/congo/
