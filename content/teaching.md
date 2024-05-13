@@ -29,6 +29,6 @@ I have also worked as a teaching assistant as well as a module leader for variou
 |-------------   |------------------|-----------------------------------------------------------------------------------|
 | U. Warwick     | Dept. Instructor | Differential Equations                                                                   |
 | U. Warwick     | Co-advisor       | Maths-in-Action                                                                               |
-| U. Pittsburgh  | Tea. Assisstant  | Intorductory Analysis; Calculus I, II, III, Introduction to Physics I, II                     | 
+| U. Pittsburgh  | Tea. Assisstant  | Intorductory Analysis; Calculus I, II, III; Introduction to Physics I, II                     | 
 
 <hr class="bold-line">
