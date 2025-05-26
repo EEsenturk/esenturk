@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2.0版本新特性 ✨ on Congo</title>
+    <link>http://localhost:51977/zh-cn/docs/version-2/</link>
+    <description>Recent content in 2.0版本新特性 ✨ on Congo</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <copyright>&amp;copy; 2023 Congo contributors</copyright>
+    <lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:51977/zh-cn/docs/version-2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>从Congo 1.x升级</title>
+      <link>http://localhost:51977/zh-cn/docs/version-2/upgrade/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:51977/zh-cn/docs/version-2/upgrade/</guid>
+      <description>&lt;p&gt;尽管 Congo 2.0 包含大量变化，但主题已经经过设计，以最小化升级到最新版本所需的努力。&lt;/p&gt;&#xA;&lt;p&gt;话虽如此，有一些变化需要调整使用 Congo 1.x 构建的现有站点。本指南将引导你完成整个过程，并突出需要考虑的事项。&lt;/p&gt;&#xA;&lt;h2 id=&#34;步骤1升级hugo&#34; class=&#34;relative group&#34;&gt;步骤1：升级Hugo &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e6%ad%a5%e9%aa%a41%e5%8d%87%e7%ba%a7hugo&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;div class=&#34;flex rounded-md bg-primary-100 px-4 py-3 dark:bg-primary-900&#34;&gt;&#xA;  &lt;span class=&#34;pe-3 text-primary-400&#34;&gt;&#xA;    &lt;span class=&#34;icon relative inline-block px-1 align-text-bottom&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z&#34;/&gt;&lt;/svg&gt;&#xA;&lt;/span&gt;&#xA;  &lt;/span&gt;&#xA;  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Congo 2.0 要求最低 &lt;strong&gt;Hugo v0.87.0 或更高版本&lt;/strong&gt;&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Congo被设计以充分利用一些最新的Hugo功能。为避免任何问题，你应该定期保持Hugo的安装版本。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

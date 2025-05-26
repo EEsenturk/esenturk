@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Icons on Congo</title>
+    <link>http://localhost:51977/de/tags/icons/</link>
+    <description>Recent content in Icons on Congo</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <copyright>&amp;copy; 2023 Congo contributors</copyright>
+    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:51977/de/tags/icons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Icons</title>
+      <link>http://localhost:51977/de/samples/icons/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:51977/de/samples/icons/</guid>
+      <description>&lt;p&gt;Congo hat integrierte Unterstützung für eine Reihe von Icons von &lt;a href=&#34;https://fontawesome.com/icons&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;FontAwesome 6&lt;/a&gt;. Diese können entweder über den Partial &lt;a href=&#34;http://localhost:51977/docs/partials/#icon&#34;&gt;icon&lt;/a&gt; oder Shortcode &lt;a href=&#34;http://localhost:51977/docs/shortcodes/#icon&#34;&gt;icon&lt;/a&gt; in deine Website eingebunden werden.&lt;/p&gt;&#xA;&lt;p&gt;Darüber hinaus werden auch benutzerdefinierte Icons vollständig unterstützt. Du kannst deine eigenen SVG-Icon-Assets im Ordner &lt;code&gt;assets/icons/&lt;/code&gt; im Stammverzeichnis deines Projekts ablegen. Alle Icons in diesem Verzeichnis stehen dann im gesamten Theme zur Verfügung.&lt;/p&gt;&#xA;&lt;p&gt;Die vollständige Liste der integrierten Icons und ihre entsprechenden Namen findest du unten.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
