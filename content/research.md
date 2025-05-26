@@ -1,5 +1,5 @@
 ---
-title: "Research Publications"
+title: "The Research Pub"
 date: 2024-04-06
 description: "Emre Esenturk Research Interests"
 summary: "Learn about my research"
@@ -11,7 +11,7 @@ tags: ["research", "publications"]
 [link texti](link) -->
 
 
-## In Preparation
+## Papers in Preparation
 
 ##
 
@@ -23,7 +23,7 @@ tags: ["research", "publications"]
 
 <hr class="bold-line">
 
-## Preprint
+## Preprints
 
 ##
 
@@ -55,5 +55,5 @@ tags: ["research", "publications"]
 
 | Year | Title                                                                                                         |
 |------|---------------------------------------------------------------------------------------------------------------|
-| 2021 | A Necessarily Historical Materialist Moment? Forum on Global Capitalism, Global War, Global Crisis (ed.), International Relations 35(1). |
-| 2019 | Authoritarian Neoliberalism: Philosophies, Practices, Contestations (eds. with Ian Bruff), Globalizations 16(3). | -->
+| 2021 |  |
+| 2019 |  | -->

@@ -16,6 +16,7 @@ I have also worked as a teaching assistant as well as a module leader for variou
 
 | Year | University  | Role             | Module Titles                                                                                 |
 |------|-------------|------------------|-----------------------------------------------------------------------------------|
+| 2025 | U. Oxford   | College Lecturer | Introductory Probability; Statistics and Data Analysis, Physics CP2                           |
 | 2024 | U. Oxford   | College Lecturer | Introductory Probability; Statistics and Data Analysis                                        |
 | 2023 | U. Oxford   | College Lecturer | Introductory Probability; Probability; Mathematical Statistics; Statistics and Data Analysis  | 
 | 2022 | U. Oxford   | College Lecturer | Mathematical Statistics; Statistics and Data Analysis; Constructive Mathematics; Introduction to Graph Theory  |

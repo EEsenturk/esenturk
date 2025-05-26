@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2020-08-16
+date: 2024-08-16
 layout: "simple"
 description: "How to install the Congo theme."
 summary: "Learn how to get up and running using Hugo and Congo from a completely blank state. It's the best place to start if you're a new user."
@@ -8,7 +8,7 @@ slug: "about"
 tags: ["research", "publications"]
 ---
 
-Hello my name is Emre. Here is my short bio
+Here is my short bio
 
 ## Professional Experience
 
