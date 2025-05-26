@@ -4,54 +4,54 @@
   
     
       <url>
-            <loc>http://localhost:51977/ja/docs/version-2/upgrade/</loc>
+            <loc>http://localhost:1313/ja/docs/version-2/upgrade/</loc>
             <lastmod>2022-01-20T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:51977/docs/version-2/upgrade/"
+              href="http://localhost:1313/docs/version-2/upgrade/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-cn"
-              href="http://localhost:51977/zh-cn/docs/version-2/upgrade/"
+              href="http://localhost:1313/zh-cn/docs/version-2/upgrade/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="ja"
-              href="http://localhost:51977/ja/docs/version-2/upgrade/"
+              href="http://localhost:1313/ja/docs/version-2/upgrade/"
               />
           </url>
     
   
     
       <url>
-            <loc>http://localhost:51977/ja/</loc>
+            <loc>http://localhost:1313/ja/</loc>
             <lastmod>2023-01-23T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:51977/"
+              href="http://localhost:1313/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-cn"
-              href="http://localhost:51977/zh-cn/"
+              href="http://localhost:1313/zh-cn/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="es"
-              href="http://localhost:51977/es/"
+              href="http://localhost:1313/es/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="de"
-              href="http://localhost:51977/de/"
+              href="http://localhost:1313/de/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="ja"
-              href="http://localhost:51977/ja/"
+              href="http://localhost:1313/ja/"
               />
           </url>
     
@@ -64,44 +64,44 @@
   
     
       <url>
-            <loc>http://localhost:51977/ja/docs/</loc>
+            <loc>http://localhost:1313/ja/docs/</loc>
             <lastmod>2022-01-20T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:51977/docs/"
+              href="http://localhost:1313/docs/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-cn"
-              href="http://localhost:51977/zh-cn/docs/"
+              href="http://localhost:1313/zh-cn/docs/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="ja"
-              href="http://localhost:51977/ja/docs/"
+              href="http://localhost:1313/ja/docs/"
               />
           </url>
     
   
     
       <url>
-            <loc>http://localhost:51977/ja/docs/version-2/</loc>
+            <loc>http://localhost:1313/ja/docs/version-2/</loc>
             <lastmod>2022-01-19T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:51977/docs/version-2/"
+              href="http://localhost:1313/docs/version-2/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-cn"
-              href="http://localhost:51977/zh-cn/docs/version-2/"
+              href="http://localhost:1313/zh-cn/docs/version-2/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="ja"
-              href="http://localhost:51977/ja/docs/version-2/"
+              href="http://localhost:1313/ja/docs/version-2/"
               />
           </url>
     
@@ -110,44 +110,44 @@
   
     
       <url>
-            <loc>http://localhost:51977/ja/docs/installation/</loc>
+            <loc>http://localhost:1313/ja/docs/installation/</loc>
             <lastmod>2020-08-16T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:51977/docs/installation/"
+              href="http://localhost:1313/docs/installation/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-cn"
-              href="http://localhost:51977/zh-cn/docs/installation/"
+              href="http://localhost:1313/zh-cn/docs/installation/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="ja"
-              href="http://localhost:51977/ja/docs/installation/"
+              href="http://localhost:1313/ja/docs/installation/"
               />
           </url>
     
   
     
       <url>
-            <loc>http://localhost:51977/ja/docs/getting-started/</loc>
+            <loc>http://localhost:1313/ja/docs/getting-started/</loc>
             <lastmod>2020-08-15T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:51977/docs/getting-started/"
+              href="http://localhost:1313/docs/getting-started/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-cn"
-              href="http://localhost:51977/zh-cn/docs/getting-started/"
+              href="http://localhost:1313/zh-cn/docs/getting-started/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="ja"
-              href="http://localhost:51977/ja/docs/getting-started/"
+              href="http://localhost:1313/ja/docs/getting-started/"
               />
           </url>
     
@@ -164,113 +164,113 @@
   
     
       <url>
-            <loc>http://localhost:51977/ja/samples/icons/</loc>
+            <loc>http://localhost:1313/ja/samples/icons/</loc>
             <lastmod>2023-01-23T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:51977/samples/icons/"
+              href="http://localhost:1313/samples/icons/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="es"
-              href="http://localhost:51977/es/samples/icons/"
+              href="http://localhost:1313/es/samples/icons/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-cn"
-              href="http://localhost:51977/zh-cn/samples/icons/"
+              href="http://localhost:1313/zh-cn/samples/icons/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="de"
-              href="http://localhost:51977/de/samples/icons/"
+              href="http://localhost:1313/de/samples/icons/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="ja"
-              href="http://localhost:51977/ja/samples/icons/"
+              href="http://localhost:1313/ja/samples/icons/"
               />
           </url>
     
   
     
       <url>
-            <loc>http://localhost:51977/ja/samples/</loc>
+            <loc>http://localhost:1313/ja/samples/</loc>
             <lastmod>2023-01-23T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:51977/samples/"
+              href="http://localhost:1313/samples/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="es"
-              href="http://localhost:51977/es/samples/"
+              href="http://localhost:1313/es/samples/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-cn"
-              href="http://localhost:51977/zh-cn/samples/"
+              href="http://localhost:1313/zh-cn/samples/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="de"
-              href="http://localhost:51977/de/samples/"
+              href="http://localhost:1313/de/samples/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="ja"
-              href="http://localhost:51977/ja/samples/"
+              href="http://localhost:1313/ja/samples/"
               />
           </url>
     
   
     
       <url>
-            <loc>http://localhost:51977/ja/docs/configuration/</loc>
+            <loc>http://localhost:1313/ja/docs/configuration/</loc>
             <lastmod>2020-08-14T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:51977/docs/configuration/"
+              href="http://localhost:1313/docs/configuration/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-cn"
-              href="http://localhost:51977/zh-cn/docs/configuration/"
+              href="http://localhost:1313/zh-cn/docs/configuration/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="ja"
-              href="http://localhost:51977/ja/docs/configuration/"
+              href="http://localhost:1313/ja/docs/configuration/"
               />
           </url>
     
   
     
       <url>
-            <loc>http://localhost:51977/ja/users/</loc>
+            <loc>http://localhost:1313/ja/users/</loc>
             <lastmod>2020-08-14T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:51977/users/"
+              href="http://localhost:1313/users/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="es"
-              href="http://localhost:51977/es/users/"
+              href="http://localhost:1313/es/users/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-cn"
-              href="http://localhost:51977/zh-cn/users/"
+              href="http://localhost:1313/zh-cn/users/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="ja"
-              href="http://localhost:51977/ja/users/"
+              href="http://localhost:1313/ja/users/"
               />
           </url>
     
@@ -281,22 +281,22 @@
   
     
       <url>
-            <loc>http://localhost:51977/ja/docs/homepage-layout/</loc>
+            <loc>http://localhost:1313/ja/docs/homepage-layout/</loc>
             <lastmod>2020-08-13T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:51977/docs/homepage-layout/"
+              href="http://localhost:1313/docs/homepage-layout/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-cn"
-              href="http://localhost:51977/zh-cn/docs/homepage-layout/"
+              href="http://localhost:1313/zh-cn/docs/homepage-layout/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="ja"
-              href="http://localhost:51977/ja/docs/homepage-layout/"
+              href="http://localhost:1313/ja/docs/homepage-layout/"
               />
           </url>
     
@@ -305,22 +305,22 @@
   
     
       <url>
-            <loc>http://localhost:51977/ja/docs/front-matter/</loc>
+            <loc>http://localhost:1313/ja/docs/front-matter/</loc>
             <lastmod>2020-08-12T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:51977/docs/front-matter/"
+              href="http://localhost:1313/docs/front-matter/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-cn"
-              href="http://localhost:51977/zh-cn/docs/front-matter/"
+              href="http://localhost:1313/zh-cn/docs/front-matter/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="ja"
-              href="http://localhost:51977/ja/docs/front-matter/"
+              href="http://localhost:1313/ja/docs/front-matter/"
               />
           </url>
     
@@ -333,22 +333,22 @@
   
     
       <url>
-            <loc>http://localhost:51977/ja/docs/shortcodes/</loc>
+            <loc>http://localhost:1313/ja/docs/shortcodes/</loc>
             <lastmod>2020-08-11T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:51977/docs/shortcodes/"
+              href="http://localhost:1313/docs/shortcodes/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-cn"
-              href="http://localhost:51977/zh-cn/docs/shortcodes/"
+              href="http://localhost:1313/zh-cn/docs/shortcodes/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="ja"
-              href="http://localhost:51977/ja/docs/shortcodes/"
+              href="http://localhost:1313/ja/docs/shortcodes/"
               />
           </url>
     
@@ -365,22 +365,22 @@
   
     
       <url>
-            <loc>http://localhost:51977/ja/docs/partials/</loc>
+            <loc>http://localhost:1313/ja/docs/partials/</loc>
             <lastmod>2020-08-10T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:51977/docs/partials/"
+              href="http://localhost:1313/docs/partials/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-cn"
-              href="http://localhost:51977/zh-cn/docs/partials/"
+              href="http://localhost:1313/zh-cn/docs/partials/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="ja"
-              href="http://localhost:51977/ja/docs/partials/"
+              href="http://localhost:1313/ja/docs/partials/"
               />
           </url>
     
@@ -391,22 +391,22 @@
   
     
       <url>
-            <loc>http://localhost:51977/ja/docs/content-examples/</loc>
+            <loc>http://localhost:1313/ja/docs/content-examples/</loc>
             <lastmod>2020-08-09T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:51977/docs/content-examples/"
+              href="http://localhost:1313/docs/content-examples/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-cn"
-              href="http://localhost:51977/zh-cn/docs/content-examples/"
+              href="http://localhost:1313/zh-cn/docs/content-examples/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="ja"
-              href="http://localhost:51977/ja/docs/content-examples/"
+              href="http://localhost:1313/ja/docs/content-examples/"
               />
           </url>
     
@@ -417,22 +417,22 @@
   
     
       <url>
-            <loc>http://localhost:51977/ja/docs/advanced-customisation/</loc>
+            <loc>http://localhost:1313/ja/docs/advanced-customisation/</loc>
             <lastmod>2020-08-08T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:51977/docs/advanced-customisation/"
+              href="http://localhost:1313/docs/advanced-customisation/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-cn"
-              href="http://localhost:51977/zh-cn/docs/advanced-customisation/"
+              href="http://localhost:1313/zh-cn/docs/advanced-customisation/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="ja"
-              href="http://localhost:51977/ja/docs/advanced-customisation/"
+              href="http://localhost:1313/ja/docs/advanced-customisation/"
               />
           </url>
     
@@ -449,22 +449,22 @@
   
     
       <url>
-            <loc>http://localhost:51977/ja/docs/hosting-deployment/</loc>
+            <loc>http://localhost:1313/ja/docs/hosting-deployment/</loc>
             <lastmod>2020-08-07T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:51977/docs/hosting-deployment/"
+              href="http://localhost:1313/docs/hosting-deployment/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-cn"
-              href="http://localhost:51977/zh-cn/docs/hosting-deployment/"
+              href="http://localhost:1313/zh-cn/docs/hosting-deployment/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="ja"
-              href="http://localhost:51977/ja/docs/hosting-deployment/"
+              href="http://localhost:1313/ja/docs/hosting-deployment/"
               />
           </url>
     
@@ -473,32 +473,32 @@
   
     
       <url>
-            <loc>http://localhost:51977/ja/samples/markdown/</loc>
+            <loc>http://localhost:1313/ja/samples/markdown/</loc>
             <lastmod>2019-03-11T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:51977/samples/markdown/"
+              href="http://localhost:1313/samples/markdown/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="es"
-              href="http://localhost:51977/es/samples/markdown/"
+              href="http://localhost:1313/es/samples/markdown/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-cn"
-              href="http://localhost:51977/zh-cn/samples/markdown/"
+              href="http://localhost:1313/zh-cn/samples/markdown/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="de"
-              href="http://localhost:51977/de/samples/markdown/"
+              href="http://localhost:1313/de/samples/markdown/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="ja"
-              href="http://localhost:51977/ja/samples/markdown/"
+              href="http://localhost:1313/ja/samples/markdown/"
               />
           </url>
     
@@ -515,32 +515,32 @@
   
     
       <url>
-            <loc>http://localhost:51977/ja/samples/rich-content/</loc>
+            <loc>http://localhost:1313/ja/samples/rich-content/</loc>
             <lastmod>2019-03-10T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:51977/samples/rich-content/"
+              href="http://localhost:1313/samples/rich-content/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="es"
-              href="http://localhost:51977/es/samples/rich-content/"
+              href="http://localhost:1313/es/samples/rich-content/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-cn"
-              href="http://localhost:51977/zh-cn/samples/rich-content/"
+              href="http://localhost:1313/zh-cn/samples/rich-content/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="de"
-              href="http://localhost:51977/de/samples/rich-content/"
+              href="http://localhost:1313/de/samples/rich-content/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="ja"
-              href="http://localhost:51977/ja/samples/rich-content/"
+              href="http://localhost:1313/ja/samples/rich-content/"
               />
           </url>
     
@@ -551,32 +551,32 @@
   
     
       <url>
-            <loc>http://localhost:51977/ja/samples/mathematical-notation/</loc>
+            <loc>http://localhost:1313/ja/samples/mathematical-notation/</loc>
             <lastmod>2019-03-08T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:51977/samples/mathematical-notation/"
+              href="http://localhost:1313/samples/mathematical-notation/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="es"
-              href="http://localhost:51977/es/samples/mathematical-notation/"
+              href="http://localhost:1313/es/samples/mathematical-notation/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-cn"
-              href="http://localhost:51977/zh-cn/samples/mathematical-notation/"
+              href="http://localhost:1313/zh-cn/samples/mathematical-notation/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="de"
-              href="http://localhost:51977/de/samples/mathematical-notation/"
+              href="http://localhost:1313/de/samples/mathematical-notation/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="ja"
-              href="http://localhost:51977/ja/samples/mathematical-notation/"
+              href="http://localhost:1313/ja/samples/mathematical-notation/"
               />
           </url>
     
@@ -589,64 +589,64 @@
   
     
       <url>
-            <loc>http://localhost:51977/ja/samples/diagrams-flowcharts/</loc>
+            <loc>http://localhost:1313/ja/samples/diagrams-flowcharts/</loc>
             <lastmod>2019-03-06T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:51977/samples/diagrams-flowcharts/"
+              href="http://localhost:1313/samples/diagrams-flowcharts/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="es"
-              href="http://localhost:51977/es/samples/diagrams-flowcharts/"
+              href="http://localhost:1313/es/samples/diagrams-flowcharts/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-cn"
-              href="http://localhost:51977/zh-cn/samples/diagrams-flowcharts/"
+              href="http://localhost:1313/zh-cn/samples/diagrams-flowcharts/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="de"
-              href="http://localhost:51977/de/samples/diagrams-flowcharts/"
+              href="http://localhost:1313/de/samples/diagrams-flowcharts/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="ja"
-              href="http://localhost:51977/ja/samples/diagrams-flowcharts/"
+              href="http://localhost:1313/ja/samples/diagrams-flowcharts/"
               />
           </url>
     
   
     
       <url>
-            <loc>http://localhost:51977/ja/samples/charts/</loc>
+            <loc>http://localhost:1313/ja/samples/charts/</loc>
             <lastmod>2019-03-06T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:51977/samples/charts/"
+              href="http://localhost:1313/samples/charts/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="es"
-              href="http://localhost:51977/es/samples/charts/"
+              href="http://localhost:1313/es/samples/charts/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-cn"
-              href="http://localhost:51977/zh-cn/samples/charts/"
+              href="http://localhost:1313/zh-cn/samples/charts/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="de"
-              href="http://localhost:51977/de/samples/charts/"
+              href="http://localhost:1313/de/samples/charts/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="ja"
-              href="http://localhost:51977/ja/samples/charts/"
+              href="http://localhost:1313/ja/samples/charts/"
               />
           </url>
     
@@ -655,32 +655,32 @@
   
     
       <url>
-            <loc>http://localhost:51977/ja/samples/emoji/</loc>
+            <loc>http://localhost:1313/ja/samples/emoji/</loc>
             <lastmod>2019-03-05T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:51977/samples/emoji/"
+              href="http://localhost:1313/samples/emoji/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="es"
-              href="http://localhost:51977/es/samples/emoji/"
+              href="http://localhost:1313/es/samples/emoji/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-cn"
-              href="http://localhost:51977/zh-cn/samples/emoji/"
+              href="http://localhost:1313/zh-cn/samples/emoji/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="de"
-              href="http://localhost:51977/de/samples/emoji/"
+              href="http://localhost:1313/de/samples/emoji/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="ja"
-              href="http://localhost:51977/ja/samples/emoji/"
+              href="http://localhost:1313/ja/samples/emoji/"
               />
           </url>
     

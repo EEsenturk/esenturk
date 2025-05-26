@@ -12,7 +12,7 @@
   class="scroll-smooth"
   data-default-appearance="light"
   data-auto-appearance="true"
-><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=51977&amp;path=livereload" data-no-instant defer></script>
+><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="theme-color" content="rgb(255,255,255)" />
@@ -86,7 +86,7 @@
   
   
   
-  <link rel="canonical" href="http://localhost:51977/docs/version-2/upgrade/" />
+  <link rel="canonical" href="http://localhost:1313/docs/version-2/upgrade/" />
   
   
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
@@ -101,7 +101,7 @@
   
   
   
-  <meta property="og:url" content="http://localhost:51977/docs/version-2/upgrade/">
+  <meta property="og:url" content="http://localhost:1313/docs/version-2/upgrade/">
   <meta property="og:site_name" content="Emre Esenturk">
   <meta property="og:title" content="Upgrading from Congo 1.x">
   <meta property="og:description" content="Discover what&#39;s new in Congo version 2.0.">
@@ -129,7 +129,7 @@
     "description": "Discover what\u0027s new in Congo version 2.0.",
     "abstract": "\u003cp\u003eAlthough Congo 2.0 contains a large number of changes, the theme has been designed to minimise the effort required to upgrade to the latest release.\u003c\/p\u003e\n\u003cp\u003eThat said, there are some changes that require adjustments to existing sites that are built with Congo version 1.x. This guide will step you through the process and highlight things you need to consider.\u003c\/p\u003e\n\u003ch2 id=\u0022step-1-upgrade-hugo\u0022 class=\u0022relative group\u0022\u003eStep 1: Upgrade Hugo \u003cspan class=\u0022absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100\u0022\u003e\u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700\u0022 style=\u0022text-decoration-line: none !important;\u0022 href=\u0022#step-1-upgrade-hugo\u0022 aria-label=\u0022Anchor\u0022\u003e#\u003c\/a\u003e\u003c\/span\u003e\u003c\/h2\u003e\u003cdiv class=\u0022flex rounded-md bg-primary-100 px-4 py-3 dark:bg-primary-900\u0022\u003e\n  \u003cspan class=\u0022pe-3 text-primary-400\u0022\u003e\n    \u003cspan class=\u0022icon relative inline-block px-1 align-text-bottom\u0022\u003e\u003csvg xmlns=\u0022http:\/\/www.w3.org\/2000\/svg\u0022 viewBox=\u00220 0 512 512\u0022\u003e\u003cpath fill=\u0022currentColor\u0022 d=\u0022M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z\u0022\/\u003e\u003c\/svg\u003e\n\u003c\/span\u003e\n  \u003c\/span\u003e\n  \u003cspan class=\u0022dark:text-neutral-300\u0022\u003eCongo 2.0 requires a minimum of \u003cstrong\u003eHugo v0.87.0 or later\u003c\/strong\u003e\u003c\/span\u003e\n\u003c\/div\u003e\n\n\u003cp\u003eCongo is built to take advantage of some of the latest Hugo features. You should regularly keep your Hugo installation up to date to avoid any issues.\u003c\/p\u003e",
     "inLanguage": "en",
-    "url" : "http:\/\/localhost:51977\/docs\/version-2\/upgrade\/",
+    "url" : "http:\/\/localhost:1313\/docs\/version-2\/upgrade\/",
     "author" : {
       "@type": "Person",
       "name": "Emre Esenturk"
@@ -213,7 +213,7 @@
                   
                   ><span
                       class="decoration-primary-500 group-hover:underline group-hover:decoration-2 group-hover:underline-offset-2"
-                      >Research Pub</span
+                      >Research</span
                     >
                   </a
                 >
@@ -241,7 +241,7 @@
               
                 <a
                   href="/project/"
-                  title="Ahmet Project"
+                  title="Projects"
                   
                   ><span
                       class="decoration-primary-500 group-hover:underline group-hover:decoration-2 group-hover:underline-offset-2"
@@ -641,16 +641,16 @@
       </tr>
   </tbody>
 </table>
-<p>For the full list of supported parameters, refer to the <a href="http://localhost:51977/docs/configuration/">Configuration</a> docs.</p>
+<p>For the full list of supported parameters, refer to the <a href="http://localhost:1313/docs/configuration/">Configuration</a> docs.</p>
 <h2 id="step-4-move-assets" class="relative group">Step 4: Move assets <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#step-4-move-assets" aria-label="Anchor">#</a></span></h2><p>All site assets, with the exception of favicons, now use Hugo Pipes to build an optimised version of your project. In order for the theme to locate your files, any previously static theme assets need to be moved to the Hugo assets folder. Primarily this is the author image and site logo:</p>
 <p><code>static/me.jpg</code> <strong>→</strong> <code>assets/me.jpg</code><br>
 <code>static/logo.jpg</code> <strong>→</strong> <code>assets/logo.jpg</code></p>
 <p>If you have provided an author image or site logo, simply move these assets from <code>static/</code> to <code>assets/</code>. If you use the same directory structure the theme will know where to find these files automatically. If you would like to provide a new path, update the <code>logo</code> and <code>author.image</code> config values accordingly.</p>
 <p>Note that this step does not apply to any assets in your project that are actually static. For example, a PDF file that you link directly to from within an article is a static asset. These files should remain in the <code>static/</code> directory to ensure they are copied to the output folder when Hugo builds the site.</p>
 <h2 id="step-5-check-content" class="relative group">Step 5: Check content <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#step-5-check-content" aria-label="Anchor">#</a></span></h2><p>The behavior of the <code>figure</code> shortcode is different in version 2. If you are using <code>figure</code> in your content and have advanced use cases, you may need to adjust the parameters you are providing.</p>
-<p>Consult the <a href="http://localhost:51977/docs/shortcodes/#figure">shortcode docs</a> to learn more about supported parameters.</p>
+<p>Consult the <a href="http://localhost:1313/docs/shortcodes/#figure">shortcode docs</a> to learn more about supported parameters.</p>
 <h2 id="step-6-rebuild" class="relative group">Step 6: Rebuild <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#step-6-rebuild" aria-label="Anchor">#</a></span></h2><p>Now that all the configuration changes are complete, it&rsquo;s time to rebuild the site. Run <code>hugo</code>, or your build command, and check that everything works as expected.</p>
-<p>If you come across any errors, check the configuration is correct and refer to the <a href="http://localhost:51977/docs/">full documentation</a> for further guidance. Remember, the example config files bundled with the theme contain all the default parameters and are a great starting point.</p>
+<p>If you come across any errors, check the configuration is correct and refer to the <a href="http://localhost:1313/docs/">full documentation</a> for further guidance. Remember, the example config files bundled with the theme contain all the default parameters and are a great starting point.</p>
 <p>🙋‍♀️ If you still need help, feel free to ask your question on <a href="https://github.com/jpanther/congo/discussions" target="_blank" rel="noreferrer">GitHub Discussions</a>.</p>
 
       </div>
@@ -676,11 +676,11 @@
         </span>
         <span>
           
-            <a class="group flex text-right" href="/docs/version-2/lighthouse/">
+            <a class="group flex text-right" href="/docs/version-2/_index.zh-cn/">
               <span class="flex flex-col">
                 <span
                   class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  ></span
+                  >2.0版本新特性 ✨</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   
@@ -741,7 +741,7 @@
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 z-50 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm sm:p-6 md:p-[10vh] lg:p-[12vh] dark:bg-neutral-900/50"
-  data-url="http://localhost:51977/"
+  data-url="http://localhost:1313/"
 >
   <div
     id="search-modal"

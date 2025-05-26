@@ -1,6 +1,6 @@
 ---
-title: "Ahmet Project"
-date: 2020-08-16
+title: "Projects"
+date: 2025-05-16
 layout: "simple"
 description: "How to install the Congo theme."
 summary: "Learn how to get up and running using Hugo and Congo from a completely blank state. It's the best place to start if you're a new user."
